@@ -1,0 +1,18 @@
+{
+  "name": "weather-now",
+  "version": "0.1.0",
+  "description": "",
+  "main": "./lib/weather",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "weather-now": "./bin/index.js"
+  },
+  "author": "kusarigama",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.5.0",
+    "node-html-parser": "^4.1.3"
+  }
+}
